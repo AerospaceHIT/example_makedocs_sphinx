@@ -4,7 +4,7 @@
 
 
 
-# markdown
+# page
 
 this is markdown contents
 
@@ -23,6 +23,10 @@ this is markdown contents
 <img src="contents.assets/clip_image221-16933817621602.png" style="zoom:67%;" />
 
 <center>im2</center>
+
+![clip_image221](contents.assets/clip_image221-16933824001014.png)
+
+<center>im3</center>
 
 # markdown2
 
