@@ -12,12 +12,9 @@ this is markdown contents
 
 ### 三级标题
 
-#### 四级标题
+[text_Sam](../text_Sam)
 
-这是一个**段落**| 作者 | 朝代 | 评分 |
-
-| :--: | :--: | :--: |
-| 李白 |  唐  | 100  |
+[text_Sam2](../text_Sam)
 
 # markdown2
 

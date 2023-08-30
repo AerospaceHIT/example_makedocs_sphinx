@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-my document _Sam
+example-makedocs-sphinx
 ======================================
 
 .. toctree::
    :maxdepth: 3
-   :caption: SamSamSamSam caption: Contents
+   :caption: SamSamSamSam example-makedocs-sphinx
    
    2020/index.rst
    2021/index.rst
