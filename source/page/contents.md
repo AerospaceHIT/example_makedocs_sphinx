@@ -16,6 +16,14 @@ this is markdown contents
 
 [text_Sam2](../text_Sam)
 
+<img src="contents.assets/clip_image221.png" align=right style="zoom:100%;" />
+
+<center>im1</center>
+
+<img src="contents.assets/clip_image221-16933817621602.png" style="zoom:67%;" />
+
+<center>im2</center>
+
 # markdown2
 
 this is markdown contents2
