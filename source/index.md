@@ -18,6 +18,8 @@ SamSamSamSam example-makedocs-sphinx
 
 ## 二级标题1.1
 
+[page](page/contents)
+
 ## 二级标题1.2
 
 # 一级标题：
