@@ -4,20 +4,19 @@
 
 
 
-# markdown
+# text_Sam
 
-this is markdown contents
+this is text_Sam
 
 ## 二级标题
 
 ### 三级标题
 
-[text_Sam](../text_Sam)
-[text_Sam2](../text_Sam)
+text_Sam
 
-# markdown2
+# text_Sam2
 
-this is markdown contents2
+this is text_Sam2
 
 ## 二级标题
 
