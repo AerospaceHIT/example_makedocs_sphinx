@@ -28,10 +28,6 @@ this is markdown contents
 
 <center>im3</center>
 
-# markdown2
-
-this is markdown contents2
-
 ## 二级标题
 
 ### 三级标题
