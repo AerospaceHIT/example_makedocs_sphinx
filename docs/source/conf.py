@@ -13,13 +13,12 @@ author = 'Sam'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-<<<<<<< HEAD
+
 # extensions = ['myst-parser','recommonmark','sphinx_markdown_tables']
 extensions = ['myst_parser','sphinx_markdown_tables']
-=======
+
 # extensions = ['myst_parser','recommonmark','sphinx_markdown_tables']
 extensions = ['myst_parser', 'sphinx_markdown_tables']
->>>>>>> 073647519566bcd95aa66219423db4b357c65a35
 
 templates_path = ['_templates']
 exclude_patterns = []
