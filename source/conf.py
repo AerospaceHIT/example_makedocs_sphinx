@@ -14,7 +14,7 @@ author = 'Sam'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 # extensions = ['myst-parser','recommonmark','sphinx_markdown_tables']
-extensions = ['myst-parser', 'sphinx_markdown_tables']
+extensions = ['myst_parser','sphinx_markdown_tables']
 
 templates_path = ['_templates']
 exclude_patterns = []
